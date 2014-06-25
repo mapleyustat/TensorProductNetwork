@@ -5,7 +5,7 @@ The goal of his project was to design and implement a backpropagation network th
 of the relation “x R y” and produces as output a representation of the relation “y R x.” For example, for input 
 such as “cats see boys,” the desired network output is “boys see cats.” In learning to do this with novel sentences,
 the network would be demonstrating that connectionist networks are capable of a degree of systematicity, a step 
-towards refuting one of the criticisms put forth by Fodor and Pylyshyn in their 1988 paper, "Connectionism and 
+towards refuting one of the criticisms put forth by Fodor and Pylyshyn in their 1998 paper, "Connectionism and 
 cognitive architecture: A critical analysis."
 
 General strategy
